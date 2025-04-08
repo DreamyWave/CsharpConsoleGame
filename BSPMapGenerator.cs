@@ -5,7 +5,7 @@ namespace ConsoleGame;
 public class BSPMapGenerator
 {
     private const int MinRoomSize = 15;
-    private const int MaxDepth = 4;
+    private const int MaxDepth = 5;
     
     private int mWidth, mHeight;
     private Random mRandom = new Random();
@@ -54,6 +54,7 @@ public class BSPMapGenerator
     //깊이 + 크기 기준으로 나눠준다 (너무 작게 잘라지는것을 방지한다.)
     private void SplitNode(BSPNode node, int depth)
     {
+        const float SplitRatio = 0.4f; //분할 비율을 
         if(depth >= MaxDepth || node.Width < MinRoomSize * 2 || node.Height < MinRoomSize *2)   
         {
             //자른 노드의 크기가 너무 작거나 깊이 이하면 그 노드의 내용물 기준으로 방을 만든다.
@@ -64,7 +65,6 @@ public class BSPMapGenerator
         }
         
         bool splitHorizontally = node.Width < node.Height;
-        if(mRandom.NextDouble() > 0.5) splitHorizontally = !splitHorizontally;
         
         if(splitHorizontally)
         {
@@ -81,6 +81,13 @@ public class BSPMapGenerator
         
         SplitNode(node.Left, depth + 1);
         SplitNode(node.Right, depth + 1);
+    }
+
+    private bool DecideSplitDirection(BSPNode node)
+    {
+        if(node.Width / (float)node.Height >= 1.25f) return true;
+        if(node.Height / (float)node.Width >= 1.25f) return false;
+        return mRandom.NextDouble() > 0.5;
     }
     
     /// <summary>

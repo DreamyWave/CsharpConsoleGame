@@ -12,3 +12,4 @@ c:\programming_study\code_snippets\StudyCSharp\ConsoleGame\obj\Debug\net9.0\refi
 c:\programming_study\code_snippets\StudyCSharp\ConsoleGame\obj\Debug\net9.0\ConsoleGame.pdb
 c:\programming_study\code_snippets\StudyCSharp\ConsoleGame\obj\Debug\net9.0\ConsoleGame.genruntimeconfig.cache
 c:\programming_study\code_snippets\StudyCSharp\ConsoleGame\obj\Debug\net9.0\ref\ConsoleGame.dll
+C:\programming_study\code_snippets\StudyCSharp\ConsoleGame\obj\Debug\net9.0\ConsoleGame.sourcelink.json
