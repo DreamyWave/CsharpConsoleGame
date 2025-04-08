@@ -1,0 +1,14 @@
+c:\programming_study\code_snippets\StudyCSharp\ConsoleGame\bin\Debug\net9.0\ConsoleGame.exe
+c:\programming_study\code_snippets\StudyCSharp\ConsoleGame\bin\Debug\net9.0\ConsoleGame.deps.json
+c:\programming_study\code_snippets\StudyCSharp\ConsoleGame\bin\Debug\net9.0\ConsoleGame.runtimeconfig.json
+c:\programming_study\code_snippets\StudyCSharp\ConsoleGame\bin\Debug\net9.0\ConsoleGame.dll
+c:\programming_study\code_snippets\StudyCSharp\ConsoleGame\bin\Debug\net9.0\ConsoleGame.pdb
+c:\programming_study\code_snippets\StudyCSharp\ConsoleGame\obj\Debug\net9.0\ConsoleGame.GeneratedMSBuildEditorConfig.editorconfig
+c:\programming_study\code_snippets\StudyCSharp\ConsoleGame\obj\Debug\net9.0\ConsoleGame.AssemblyInfoInputs.cache
+c:\programming_study\code_snippets\StudyCSharp\ConsoleGame\obj\Debug\net9.0\ConsoleGame.AssemblyInfo.cs
+c:\programming_study\code_snippets\StudyCSharp\ConsoleGame\obj\Debug\net9.0\ConsoleGame.csproj.CoreCompileInputs.cache
+c:\programming_study\code_snippets\StudyCSharp\ConsoleGame\obj\Debug\net9.0\ConsoleGame.dll
+c:\programming_study\code_snippets\StudyCSharp\ConsoleGame\obj\Debug\net9.0\refint\ConsoleGame.dll
+c:\programming_study\code_snippets\StudyCSharp\ConsoleGame\obj\Debug\net9.0\ConsoleGame.pdb
+c:\programming_study\code_snippets\StudyCSharp\ConsoleGame\obj\Debug\net9.0\ConsoleGame.genruntimeconfig.cache
+c:\programming_study\code_snippets\StudyCSharp\ConsoleGame\obj\Debug\net9.0\ref\ConsoleGame.dll
