@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\programming_study\\code_snippets\\StudyCSharp\\ConsoleGame\\ConsoleGame.csproj",
+      "projectUniqueName": "C:\\Deving\\CsharpConsoleGame\\ConsoleGame.csproj",
       "projectName": "ConsoleGame",
-      "projectPath": "C:\\programming_study\\code_snippets\\StudyCSharp\\ConsoleGame\\ConsoleGame.csproj",
+      "projectPath": "C:\\Deving\\CsharpConsoleGame\\ConsoleGame.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\programming_study\\code_snippets\\StudyCSharp\\ConsoleGame\\obj\\",
+      "outputPath": "C:\\Deving\\CsharpConsoleGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
